@@ -80,6 +80,8 @@ Test Case 5: NOT (~4)
   Carry Out: No carry, so carry_out = 0.
   Zero Flag: Since the result is 1011, which is not zero, zero_flag = 0 
 
+ **OUTPUT OF THE TASK** :<img width="959" alt="Image" src="https://github.com/user-attachments/assets/630af111-f4c0-4f0b-8fb3-928767747114" />
+
 **Conclusion** :
 
   In this mini project, we have successfully designed and implemented a 4-bit Arithmetic and Logic Unit (ALU) capable of performing basic arithmetic and logical operations, including addition, subtraction, AND, OR, and NOT. The ALU design was based on a control signal (CU) that selects the operation to be performed, with each operation tested through different test cases. 
