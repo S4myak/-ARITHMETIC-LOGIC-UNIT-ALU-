@@ -13,17 +13,18 @@
 **MENTOR NAME** :NEELA SANTHOSH KUMAR
 
 **DESCRIPTION** :
-
+ # BASIC INFORMATION:
+ 
 ALU stands for Arithmetic and Logical Unit which performs Arithmetic functions like Addition, subtraction, division, etc. it also performs logical commands such as AND , OR & NOt operations .The ALU is a digital circuit inside the CPU that has the capacity to perform billions of operations per second. The ALU in the computer performs arithmetic and logical operations as part of the CPU, and as commanded by the Control Unit.ALU is a fundamental building block of a computer's central processing unit .
 
-ALU design:
+# ALU design:
  1)The ALU created supports a 4-bit input and an output result.
 
  2)The program selects the operation based on a control signal (CS)
 
  3)Operations include: addition, subtraction, AND, OR, and NOT.
 
-**Applications of ALU**:
+# Applications of ALU**:
 
 ALUs are often used in combination with other components like:
    1) Multipliers and Dividers for more complex operations.
@@ -32,7 +33,7 @@ ALUs are often used in combination with other components like:
     
    3)Control Units that manage the operation selection (opcode) for the ALU.
 
-**Sources used** :
+# Sources used :
 YouTube links: 
 https://youtu.be/SlAL_iGgG08?si=l-X3BaJSEoBqJ006
 https://youtu.be/H_aoaQYgKT8?si=lNWmhAjGOtR28CnU
@@ -44,7 +45,7 @@ circuitcove.com
 AI used : 
 chat GPT
 
-**Output Generation** :
+# Output Generation :
 Test Case 1: Addition (4 + 8)
 
   Inputs: A = 0100 (4), B = 1000 (8), opcode = 000 (Addition)
